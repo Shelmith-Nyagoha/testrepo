@@ -1,0 +1,10 @@
+
+.par{
+  dispaly: block;
+  text-align: center;
+  color: red;
+}
+* {
+  text-align: center;
+  color: blue;
+}
